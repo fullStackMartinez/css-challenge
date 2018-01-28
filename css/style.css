@@ -16,19 +16,23 @@ header {
 	padding: 1em;
 }
 header h1 {
-	font-size: 48px;
+	font-size: 38px;
 
 	padding-top: 20px;
 	padding-bottom: 20px;
 
 	display: inline;
-	margin: 0 0 0 2em;
+	margin: 0 0 0 3em;
 }
 header p {
 	float:right;
 	display: inline-block;
 	margin-right: 22em;
-	margin-top: 2em;
+	margin-top: 1.25em;
+}
+
+div.welcome {
+	text-align: center;
 }
 
 

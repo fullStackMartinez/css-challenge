@@ -25,8 +25,9 @@
 				<div class="container">
 
 					<!-- WELCOME IMAGE -->
-					<img src="images/welcome.gif" alt="welcome to my homepage">
-
+					<div class="welcome">
+					<img src="images/welcome.gif" alt="welcome to my homepage" width="500" height="173">
+				    </div>
 					<div class="instructions-wrapper">
 						<div class="instructions-content">
 							<h2>Instructions</h2>
