@@ -42,6 +42,19 @@ div.welcome {
 	padding: 0 2rem;
 }
 
+div.instructions-wrapper {
+	border: black solid 3px;
+	margin: 2em;
+}
+div.instructions-content{
+	float: left;
+}
+.resize {
+	width: 20%;
+	float:right;
+	padding: 1em;
+}
+
 .clearfix {
 	clear: both;
 }

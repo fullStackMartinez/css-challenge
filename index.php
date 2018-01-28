@@ -38,7 +38,7 @@
 								<li>Have fun! The solution will be demonstrated in class. <small>(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</small></li>
 							</ol>
 						</div>
-						<img src="images/captain-janeway.png" alt="captain janeway" />
+						<img class="resize" src="images/captain-janeway.png" alt="captain janeway"  />
 						<div class="clearfix"></div>
 					</div><!--/.instructions-->
 				</div><!--/.container-->
