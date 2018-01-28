@@ -44,11 +44,12 @@ div.welcome {
 
 div.instructions-wrapper {
 	border: black solid 3px;
-	margin: 2em;
+	margin: 1em 6em;
 }
 div.instructions-content{
 	float: left;
 }
+
 .resize {
 	width: 20%;
 	float:right;
@@ -58,6 +59,23 @@ div.instructions-content{
 .clearfix {
 	clear: both;
 }
+
+.container1 {
+	background: #0000ff;
+	padding: 2em;
+
+}
+.container1 .picard {
+	padding: 0em 2em;
+	width: 20%;
+	float: left;
+}
+.container1 h2 p {
+	display: block;
+	float: right;
+}
+
+
 
 /* create a responsive container */
 @media only screen and (min-width: 1200px) {
