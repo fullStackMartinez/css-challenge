@@ -102,6 +102,12 @@ td, th {
 .form{
 	background: #333333;
 }
+div.form-wrapper{
+	width: 80%;
+	margin-left:auto;
+	margin-right:auto;
+	background: #00FF00;
+}
 
 
 /* create a responsive container */
