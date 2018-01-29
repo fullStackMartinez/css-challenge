@@ -58,7 +58,7 @@
 
 			<!-- PROFESSIONAL SKILLZ -->
 			<section>
-				<div class="container">
+				<div class="container2">
 					<h2>Summary of Profe$$ional Skillz</h2>
 					<table class="table">
 						<tr>
@@ -86,7 +86,7 @@
 			</section>
 
 			<!-- CONTACT FORM -->
-			<section>
+			<section class="form">
 				<div class="container">
 					<div class="form-wrapper">
 						<h2>Contact Me! I <3 to fix printers!</h2>
