@@ -130,6 +130,21 @@ input{
 	margin-left: 2em;
 vertical-align: top;
 }
+textarea {
+	margin-left: 2em;
+}
+button {
+	margin-left: 2em;
+	background-color: #00ff00;
+	border:none;
+}
+
+footer{
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-size: 14px;
+}
 
 
 

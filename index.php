@@ -96,7 +96,7 @@
 							</div>
 
 							<div>
-								<label for="emailEmail">Email</label>
+								<label for="Email">Email</label>
 								<input type="email" name="email" id="email" />
 							</div>
 
