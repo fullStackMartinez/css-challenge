@@ -106,8 +106,29 @@ div.form-wrapper{
 	width: 80%;
 	margin-left:auto;
 	margin-right:auto;
-	background: #00FF00;
+	background: #006400;
 }
+div.form-wrapper h2{
+	color: #00FF00;
+	margin-left: 1em;
+}
+div.form-wrapper form label{
+	font-weight: bold;
+	color: #00FF00;
+
+}
+label{
+	display: block;
+	margin-left:2em;
+}
+input{
+	width: 300px;
+	margin-bottom:1em;
+
+	margin-left: 2em;
+vertical-align: top;
+}
+
 
 
 /* create a responsive container */
