@@ -8,6 +8,7 @@
 html, body {
 	margin: 0;
 	box-sizing: border-box;
+	font-family: "Lucida Console";
 }
 header {
 	width: 100%;
@@ -39,7 +40,7 @@ div.welcome {
 
 
 .container{
-	width:80%;
+	width:90%;
 	margin:0 auto;
 	padding: 0 2rem;
 }
@@ -56,6 +57,7 @@ div.instructions-content{
 	width: 20%;
 	float:right;
 	padding: 1em;
+	display: inline;
 }
 
 .clearfix {
@@ -75,20 +77,25 @@ margin: 1em;
 
 	object-fit: contain;
 }
+span {
+	color: yellow;
+}
 .container1 > h2, p{
 	color: white;
 	padding-left:2em;
 }
 .container2 h2{
+	display:inline;
 	float: right;
-	margin-top:2em;
+
+
 }
 table{
 width: 80%;
-margin-left:auto;
-	margin-right: auto;
+margin:auto;
 
 	margin-bottom: 2em;
+	margin-top: 3em;
 }
 th{
 	text-align:left;
