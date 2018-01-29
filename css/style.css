@@ -74,6 +74,19 @@ div.instructions-content{
 }
 .container1 > h2, p{
 	color: white;
+}
+table{
+	width: 100%;
+}
+th{
+	text-align:left;
+}
+
+td, th {
+	background-color: #333333;
+	color: #00FF00;
+	padding: 1em 0em 1em 2em;
+
 
 
 }

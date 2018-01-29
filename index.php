@@ -60,7 +60,7 @@
 			<section>
 				<div class="container">
 					<h2>Summary of Profe$$ional Skillz</h2>
-					<table>
+					<table class="table">
 						<tr>
 							<th>Languages</th>
 							<th>Software</th>
