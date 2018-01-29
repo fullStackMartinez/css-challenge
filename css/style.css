@@ -26,6 +26,7 @@ header h1 {
 	margin: 0 0 0 3em;
 }
 header p {
+	color:#00FF00;
 	float:right;
 	display: inline-block;
 	margin-right: 22em;
@@ -67,15 +68,16 @@ div.instructions-content{
 
 
 }
-.container1 .picard {
-
-	width: 20%;
+.container1 img {
+margin: 1em;
 	float: left;
 	border: white solid 2px;
-	margin-right: 2em;
+
+	object-fit: contain;
 }
 .container1 > h2, p{
 	color: white;
+	padding-left:2em;
 }
 .container2 h2{
 	float: right;
